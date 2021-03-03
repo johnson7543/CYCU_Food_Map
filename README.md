@@ -12,9 +12,11 @@
 可參考：https://stackoverflow.com/a/49197265/12732471
 
 開啟後對著Views資料夾右鍵->"View in Browser"即可運行網站
+
 ![](https://i.imgur.com/FQ9OvZq.jpg)
 
 MVC運作流程
+
 ![](https://i.imgur.com/Ji1lyA3.jpg)
 
 ![](https://i.imgur.com/ynpOwXP.jpg)
