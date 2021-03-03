@@ -9,7 +9,7 @@
 
 需安裝IIS Express方可順利執行
 
-後來才安裝的可能會碰到"Error：Cannot read configuration file"之類的問題
+後來才安裝的可能會碰到"Error：Cannot read configuration file"之類問題
 
 可參考：https://stackoverflow.com/a/49197265/12732471
 
