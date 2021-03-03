@@ -5,7 +5,7 @@
 
 ### <a href="https://drive.google.com/file/d/1bkGOPI2T-68UmyBlg9IIzgZwGK7PB8SG/view?usp=sharing">報告投影片</a>
 
-下載解壓縮後使用visual studio開啟
+下載後使用visual studio開啟
 
 需安裝IIS Express方可順利執行
 
