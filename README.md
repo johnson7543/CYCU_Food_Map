@@ -13,9 +13,9 @@
 
 可參考：https://stackoverflow.com/a/49197265/12732471
 
-開啟後對著Views資料夾右鍵->"View in Browser"即可運行網站
+開啟後"File"->"View in Browser"，或是直接Ctrl+Shift+W
 
-![](https://i.imgur.com/FQ9OvZq.jpg)
+![](https://i.imgur.com/9HHmRpa.jpg)
 
 MVC運作流程
 
