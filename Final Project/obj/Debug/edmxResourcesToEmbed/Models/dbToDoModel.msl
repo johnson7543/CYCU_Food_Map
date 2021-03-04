@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbToDoModelStoreContainer" CdmEntityContainer="dbToDoEntities">
+    <EntitySetMapping Name="tTodo">
+      <EntityTypeMapping TypeName="dbToDoModel.tTodo">
+        <MappingFragment StoreEntitySet="tTodo">
+          <ScalarProperty Name="fId" ColumnName="fId" />
+          <ScalarProperty Name="fTitle" ColumnName="fTitle" />
+          <ScalarProperty Name="fImage" ColumnName="fImage" />
+          <ScalarProperty Name="fAddress" ColumnName="fAddress" />
+          <ScalarProperty Name="fType" ColumnName="fType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

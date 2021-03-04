@@ -1,0 +1,70 @@
+﻿
+@using PagedList.Mvc
+@using PagedList
+@model IPagedList<Final_Project.Models.Data>
+
+@{
+    ViewBag.Title = "Search Result";
+}
+
+<link href="~/Content/PageList.css" rel="stylesheet" />
+
+<h2>Recommended Food Nearby</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Photo
+        </th>
+        <th>
+            Address
+        </th>
+        <th>
+            Type
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                <img src="~/images/@item.Image" width="200" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                <a href="https://www.google.com.tw/maps/place/@item.Address"
+                   class=" btn btn-info">
+                    Google Map
+                </a>
+            </td>
+            <td>
+                @*Using HTML ActionLink to Create a link
+                    to an action method from your Controller class *@
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id }
+                    // Add JavaScript to confirm
+                    ,new { onclick = "return confirm('Are you sure?')" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

@@ -1,0 +1,34 @@
+﻿@model Final_Project.Models.tTodo
+
+@{
+    ViewBag.Title = "EditPage";
+}
+
+<h2>Edit @Model.fTitle</h2>
+
+        <div class="form-horizontal">
+            <hr />
+            <div class="form-group">
+                <br />
+                @* Create a drop-down list*@
+                <form action="@Url.Action("Edit")" method="post" enctype="multipart/form-data">
+                    <div class="col-md-10">
+                        <p  style="float: right">@Model.fTitle</p>
+                        <p>Name: <input type="text" name="Title" id="Title" required /></p>
+                        <p style="float: right">@Model.fAddress</p>
+                        <p>Address: <input type="text" name="Address" id="Address" required /></p>
+                        <p style="float: right">@Model.fType</p>
+                        <p>Type: <input type="text" name="Type" id="Type" required /></p>
+                        @Html.HiddenFor(model => model.fId)
+                        Select your File:    <img src="~/images/@Model.fImage" width="300" style="float: right" />
+                        <input type="file" name="photo" id="photo" />
+                        <br />
+                        <p><input type="submit" value="Save" /></p>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div>
+            @Html.ActionLink("Back to List", "Index")
+        </div>

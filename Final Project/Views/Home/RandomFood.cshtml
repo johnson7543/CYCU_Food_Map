@@ -1,0 +1,46 @@
+﻿@using PagedList.Mvc
+@using PagedList
+@model Final_Project.Models.Data
+
+@{
+    ViewBag.Title = "Smart Choice !";
+}
+
+<link href="~/Content/PageList.css" rel="stylesheet" />
+<h2>Smart Choice !</h2>
+
+<br />
+<br />
+
+<div>
+    <p style="font-size:1cm">
+        @Html.DisplayFor(modelItem => Model.Title)
+    </p>
+    <p>
+        <img src="~/images/@Model.Image" width="500" />
+    </p>
+    <p>
+        @Html.DisplayFor(modelItem => Model.Address)
+    </p>
+    <p>
+        @Html.DisplayFor(modelItem => Model.Type)
+    </p>
+    <p>
+        <a href="https://www.google.com.tw/maps/place/@Model.Address"
+           class=" btn btn-info">
+            Google Map
+        </a>
+    </p>
+</div>
+
+<br />
+<br />
+<br />
+
+<p>
+    Don't like it ? Just try again !
+    <br />
+    <a href=" @Url.Action("RandomFood")" class=" btn btn-danger">
+        I want to eat...
+    </a>
+</p>

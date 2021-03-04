@@ -1,0 +1,30 @@
+﻿@model Final_Project.Models.tTodo
+
+@{
+    ViewBag.Title = "CreatePage";
+}
+
+<h2>Create</h2>
+
+<div class="form-horizontal">
+    <hr />
+    <div class="form-group">
+        <br />
+        @* Create a drop-down list*@
+        <form action="@Url.Action("Create")" method="post" enctype="multipart/form-data">
+            <div class="col-md-10">
+                <p>Name: <input type="text" name="Title" id="Title"  required /></p>
+                <p>Address: <input type="text" name="Address" id="Address" required /></p>
+                <p>Type: <input type="text" name="Type" id="Type"  required /></p>
+                    Select your File:
+                    <input type="file" name="photo" id="photo" />
+                    <br />
+                    <p><input type="submit" value="Create" /></p>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

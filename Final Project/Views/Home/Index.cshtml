@@ -1,0 +1,125 @@
+﻿
+@using PagedList.Mvc
+@using PagedList
+@model IPagedList<Final_Project.Models.Data>
+
+@{
+    ViewBag.Title = "HomePage";
+}
+
+<link href="~/Content/PageList.css" rel="stylesheet" />
+
+<h2>Recommended food near the CYCU !</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div>
+    <div class="form-horizontal">
+        <hr />
+        <div class="form-group">
+            <br />
+            @* Create a drop-down list*@
+            <form action="@Url.Action("Search")" method="post" enctype="multipart/form-data">
+                <div class="col-md-10">
+                    @{
+
+                        List<String> typeList = new List<String>();
+                        var i = 0;
+                        foreach (var item in Model)
+                        {
+                            Boolean isduplicated = false;
+                            foreach (var typeItem in typeList)
+                            {
+
+                                if (typeItem == item.Type)
+                                {
+                                    isduplicated = true;
+                                }
+
+                            }
+                            if (!isduplicated)
+                            {
+                                i++;
+                                String temp;
+                                temp = item.Type;
+                                typeList.Add(temp);
+                            }
+                        }
+                    }
+
+                    <select type="submit" id="type" , name="type" value="type">
+                        @foreach (var item in typeList)
+                        {
+                            <option value="@item"> @item </option>
+                        }
+                    </select>
+
+                    <input type="submit" value="Search" /> </p>
+                </div>
+            </form>
+        </div>
+    </div>
+
+</div>
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Photo
+        </th>
+        <th>
+            Address
+        </th>
+        <th>
+            Type
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                <img src="~/images/@item.Image" width="200" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                <a href="https://www.google.com.tw/maps/place/@item.Address"
+                   class=" btn btn-info">
+                    Google Map
+                </a>
+            </td>
+            <td>
+                @*Using HTML ActionLink to Create a link
+                    to an action method from your Controller class *@
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id }
+                    // Add JavaScript to confirm
+                    ,new { onclick = "return confirm('Are you sure?')" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+<p>
+    No idea? Try it !
+    <br />
+    <a href=" @Url.Action("RandomFood")" class=" btn btn-danger">
+        What should I eat?
+    </a>
+</p>
+

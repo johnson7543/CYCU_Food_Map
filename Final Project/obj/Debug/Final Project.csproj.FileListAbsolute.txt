@@ -1,0 +1,425 @@
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Final Project.dll.config
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Final Project.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Final Project.pdb
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csc.exe.config
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csc.rsp
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csi.exe
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csi.exe.config
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csi.rsp
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Console.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\vbc.exe.config
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\vbc.rsp
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\EntityFramework.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Helpers.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Mvc.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Razor.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\EntityFramework.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Razor.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Helpers.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Mvc.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\obj\Debug\Final Project.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\PagedList.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\PagedList.Mvc.dll
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\PagedList.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\PagedList.Mvc.xml
+C:\Users\USER\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\Final Project.dll.config
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\Final Project.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\Final Project.pdb
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\csc.exe
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\csc.exe.config
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\csc.rsp
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\csi.exe
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\csi.exe.config
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\csi.rsp
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.AppContext.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Console.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\vbc.exe
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\vbc.exe.config
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\vbc.rsp
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\EntityFramework.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\EntityFramework.SqlServer.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\PagedList.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\PagedList.Mvc.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Helpers.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Mvc.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Razor.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Razor.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\EntityFramework.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\EntityFramework.SqlServer.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\PagedList.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\PagedList.Mvc.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Razor.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Razor.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Helpers.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\System.Web.Mvc.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\obj\Debug\Final Project.dll
+C:\Users\LIN\Desktop\Final Prj\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\Final Project.dll.config
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\Final Project.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\Final Project.pdb
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\csc.exe.config
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\csc.rsp
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\csi.exe
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\csi.exe.config
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\csi.rsp
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Console.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\vbc.exe.config
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\vbc.rsp
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\EntityFramework.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\PagedList.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\PagedList.Mvc.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Helpers.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Mvc.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Razor.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\EntityFramework.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\PagedList.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\PagedList.Mvc.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Razor.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Helpers.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\System.Web.Mvc.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\obj\Debug\Final Project.dll
+C:\Users\USER\Downloads\Final Prj\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Final Project.dll.config
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Final Project.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Final Project.pdb
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csc.exe
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csc.exe.config
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csc.rsp
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csi.exe
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csi.exe.config
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\csi.rsp
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.AppContext.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Console.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\vbc.exe
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\vbc.exe.config
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\vbc.rsp
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\EntityFramework.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\EntityFramework.SqlServer.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\PagedList.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\PagedList.Mvc.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Helpers.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Mvc.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Razor.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Razor.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\EntityFramework.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\EntityFramework.SqlServer.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\PagedList.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\PagedList.Mvc.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Razor.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Webpages.Razor.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Helpers.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\System.Web.Mvc.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\obj\Debug\Final Project.dll
+C:\Users\johnson7543\Downloads\進階網路資訊系統\Final Prj\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\Final Project.dll.config
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\Final Project.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\Final Project.pdb
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\csc.exe
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\csc.exe.config
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\csc.rsp
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\csi.exe
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\csi.exe.config
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\csi.rsp
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.AppContext.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Console.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\vbc.exe
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\vbc.exe.config
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\vbc.rsp
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\EntityFramework.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\EntityFramework.SqlServer.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\PagedList.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\PagedList.Mvc.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Helpers.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Mvc.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Razor.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Webpages.Deployment.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Webpages.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Webpages.Razor.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\EntityFramework.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\EntityFramework.SqlServer.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\PagedList.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\PagedList.Mvc.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Razor.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Webpages.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Webpages.Deployment.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Webpages.Razor.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Helpers.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\System.Web.Mvc.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.resources.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.Deployment.resources.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\zh-Hant\System.Web.Webpages.Razor.resources.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\obj\Debug\Final Project.dll
+C:\Users\johnson7543\Documents\CYCU\CYCU_Food_Map\Final Project\Final Project\obj\Debug\Final Project.pdb
